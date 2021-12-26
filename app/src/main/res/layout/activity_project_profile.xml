@@ -6,7 +6,7 @@
         <import type="android.view.View" />
         <variable
             name="viewModel"
-            type="com.spiraldev.cryptoticker.ui.projectProfile.ProjectProfileViewModel" />
+            type="com.bitcoinworld.cryptostat.ui.projectProfile.ProjectProfileViewModel" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout

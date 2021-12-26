@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "357640996872",
+    "project_id": "bitcoin-world-c79df",
+    "storage_bucket": "bitcoin-world-c79df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357640996872:android:d88bc38ae59bf8aafee9bd",
+        "android_client_info": {
+          "package_name": "com.bitcoinworld.cryptostat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357640996872-4n98qh7avvgrovjovkgp1h0laoh776f9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLpAtveEe9NMh-uchCYSuVK-Tsp6pqN3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357640996872-4n98qh7avvgrovjovkgp1h0laoh776f9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
